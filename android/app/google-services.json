@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556160715893",
+    "project_id": "busticket-app",
+    "storage_bucket": "busticket-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556160715893:android:1a0498ca9b865268e1fc3c",
+        "android_client_info": {
+          "package_name": "com.example.seat_selection_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfeLd07ftlhsRKekePe2Hcz3gStHwnK68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
